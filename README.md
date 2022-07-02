@@ -1,4 +1,4 @@
-# Youtube 2022.7.2 updated
+# Youtube 2022.7.2 updated!
 
 / -> Home
 /join -> Join
